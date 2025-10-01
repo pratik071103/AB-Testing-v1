@@ -98,8 +98,6 @@ Magnitude of effect (~0.82pp drop) is below the reject threshold but directional
 ## Dataset: Cookie Cats A/B testing dataset (public mirrors on Kaggle; include link in your repo if allowed).
 ## Libraries: pandas, numpy, statsmodels, streamlit.
 
-Live Demo & Contact
-
 ## Live app: add your Streamlit URL here
 
 ## Say hi: https://www.linkedin.com/in/pratik-kumar-jha-5509742b0/
